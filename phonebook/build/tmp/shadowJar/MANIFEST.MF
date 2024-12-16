@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.example.phonebook.PhoneBookApplication
+Add-Opens: --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.
+ base/java.util=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.c
+ ss=ALL-UNNAMED --add-opens javafx.base/com.sun.javafx.collections=ALL-U
+ NNAMED --add-reads com.example.phonebook=ALL-UNNAMED
+

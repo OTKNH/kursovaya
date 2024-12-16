@@ -1,0 +1,76 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.javamodularity.moduleplugin' version '1.8.12'
+    id 'org.openjfx.javafxplugin' version '0.0.13'
+    id 'com.github.johnrengelman.shadow' version '7.1.2'
+}
+
+group 'com.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    junitVersion = '5.10.2'
+}
+
+application {
+    mainClass = 'com.example.phonebook.PhoneBookApplication'
+
+}
+
+javafx {
+    version = '17.0.6'
+    modules = ['javafx.controls', 'javafx.fxml']
+}
+
+dependencies {
+    implementation('org.controlsfx:controlsfx:11.2.1')
+    implementation('org.kordamp.ikonli:ikonli-javafx:12.3.1')
+    implementation('org.apache.logging.log4j:log4j-core:2.20.0')
+    implementation('org.apache.logging.log4j:log4j-api:2.20.0')
+
+    testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
+}
+
+test {
+    useJUnitPlatform()
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+sourceCompatibility = '17'
+targetCompatibility = '17'
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'com.example.phonebook.PhoneBookApplication'
+        )
+    }
+}
+
+tasks.shadowJar {
+    archiveClassifier.set('all')
+    mergeServiceFiles()
+
+    manifest {
+        attributes(
+                'Main-Class': 'com.example.phonebook.PhoneBookApplication',
+                'Add-Opens': '--add-opens java.base/java.lang=ALL-UNNAMED '
+                        + '--add-opens java.base/java.util=ALL-UNNAMED '
+                        + '--add-opens javafx.graphics/com.sun.javafx.css=ALL-UNNAMED '
+                        + '--add-opens javafx.base/com.sun.javafx.collections=ALL-UNNAMED '
+                        + '--add-reads com.example.phonebook=ALL-UNNAMED'
+        )
+    }
+}
+
+
+// java --module-path "C:\Users\dsold\Downloads\openjfx-17.0.13_windows-x64_bin-sdk\javafx-sdk-17.0.13\lib" --add-modules javafx.controls,javafx.fxml -jar build/libs/phonebook-1.0-SNAPSHOT-all.jar

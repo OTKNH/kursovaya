@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Label?>
+
+<BorderPane xmlns="http://javafx.com/javafx/17"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.example.phonebook.PhoneBookController"
+            prefWidth="900" prefHeight="600">
+
+    <top>
+        <VBox spacing="10">
+            <HBox spacing="10" style="-fx-padding:10;">
+                <Button text="Добавить" onAction="#onAddButtonClick"/>
+                <Button text="Удалить" onAction="#onDeleteButtonClick"/>
+                <Button text="Сохранить" onAction="#onSaveAsFile"/>
+                <Button text="Загрузить" onAction="#onLoadFromFile"/>
+                <Button text="Сортировать по ФИО" onAction="#sortByName"/>
+            </HBox>
+
+            <HBox spacing="10" style="-fx-padding:10;">
+                <Label text="Поиск ФИО:"/>
+                <TextField fx:id="searchNameField" promptText="ФИО"/>
+
+                <Label text="Поиск номера:"/>
+                <TextField fx:id="searchPhoneField" promptText="Номер телефона"/>
+            </HBox>
+        </VBox>
+    </top>
+
+    <center>
+        <TableView fx:id="phoneTable">
+            <columns>
+                <TableColumn fx:id="nameColumn" text="ФИО" prefWidth="250"/>
+                <TableColumn fx:id="numberColumn" text="Номер" prefWidth="200"/>
+                <TableColumn fx:id="typeColumn" text="Тип" prefWidth="120"/>
+            </columns>
+        </TableView>
+    </center>
+
+    <bottom>
+        <Slider fx:id="zoomSlider"
+                min="0.5" max="2.0" value="1.0"
+                blockIncrement="0.1" majorTickUnit="0.5"
+                showTickMarks="true" showTickLabels="true"
+                style="-fx-padding:10;"/>
+    </bottom>
+
+</BorderPane>

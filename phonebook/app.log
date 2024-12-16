@@ -1,0 +1,136 @@
+2024-12-14 19:07:42 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-14 19:07:43 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-14 19:07:44 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-14 20:52:24 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-14 20:52:24 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-14 20:52:25 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-14 20:52:30 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Список отсортирован по ФИО.
+2024-12-14 20:52:57 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)796-99-29 (Мобильный)
+2024-12-14 20:53:10 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)988-51-28 (Домашний)
+2024-12-14 20:53:11 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Солдаткин Данилл с 2 номерами
+2024-12-14 20:53:11 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Солдаткин Данилл' добавлен (2 номеров).
+2024-12-14 20:53:13 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Список отсортирован по ФИО.
+2024-12-14 20:53:43 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)799-89-90 (Мобильный)
+2024-12-14 20:53:54 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(992)365-28-29 (Домашний)
+2024-12-14 20:53:55 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Рязанов Иван с 2 номерами
+2024-12-14 20:53:55 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Рязанов Иван' добавлен (2 номеров).
+2024-12-14 20:53:58 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Список отсортирован по ФИО.
+2024-12-14 20:54:38 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(952)890-99-40 (Мобильный)
+2024-12-14 20:54:48 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(675)351-20-20 (Факс)
+2024-12-14 20:55:07 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(999)812-30-30 (Домашний)
+2024-12-14 20:55:08 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Шелехов Михаил с 3 номерами
+2024-12-14 20:55:08 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Шелехов Михаил' добавлен (3 номеров).
+2024-12-14 20:55:28 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(999)322-09-89 (Мобильный)
+2024-12-14 20:55:49 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(090)301-00-30 (Мобильный)
+2024-12-14 20:55:52 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Мальцов Андрей с 2 номерами
+2024-12-14 20:55:52 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Мальцов Андрей' добавлен (2 номеров).
+2024-12-14 20:56:26 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(976)534-21-32 (Мобильный)
+2024-12-14 20:56:37 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(976)526-12-12 (Мобильный)
+2024-12-14 20:56:48 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(976)356-72-89 (Мобильный)
+2024-12-14 20:57:01 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(812)350-45-60 (Домашний)
+2024-12-14 20:57:02 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Штангин Петр с 4 номерами
+2024-12-14 20:57:02 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Штангин Петр' добавлен (4 номеров).
+2024-12-14 20:57:38 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(168)392-92-92 (Мобильный)
+2024-12-14 20:58:01 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(139)123-12-12 (Факс)
+2024-12-14 20:58:02 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Гендель Илья с 2 номерами
+2024-12-14 20:58:02 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Гендель Илья' добавлен (2 номеров).
+2024-12-15 00:28:34 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 00:28:34 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 00:28:35 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 01:00:06 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 01:00:06 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 01:00:07 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 01:41:41 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 01:41:41 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 01:41:42 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 15:29:12 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 15:29:12 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 15:29:13 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 15:44:28 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 15:44:29 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 15:44:30 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 15:49:02 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 15:49:02 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 15:49:03 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 15:50:32 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 15:50:32 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 15:50:33 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 15:50:45 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Данные загружены из файла C:\Users\dsold\Desktop\test.dat
+2024-12-15 15:55:41 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 15:55:42 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 15:55:42 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 15:56:09 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)796-99-29 (Мобильный)
+2024-12-15 15:56:30 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(931)748-88-29 (Факс)
+2024-12-15 15:56:32 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Даниил Андреев с 2 номерами
+2024-12-15 15:56:32 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Даниил Андреев' добавлен (2 номеров).
+2024-12-15 21:09:08 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 21:09:09 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 21:09:10 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 21:10:13 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)796-99-29 (Мобильный)
+2024-12-15 21:10:35 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: 78120038 (Факс)
+2024-12-15 21:10:47 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Даниил Сергеевич с 2 номерами
+2024-12-15 21:10:47 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Даниил Сергеевич' добавлен (2 номеров).
+2024-12-15 21:10:53 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Из контакта 'Даниил Сергеевич' удалён номер '+7(921)796-99-29 (Мобильный)'
+2024-12-15 21:11:14 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)796-99-29 (Мобильный)
+2024-12-15 21:11:18 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Даниил Олегович с 1 номерами
+2024-12-15 21:11:18 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Даниил Олегович' добавлен (1 номеров).
+2024-12-15 21:11:28 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Даниил Сергеевич' удалён полностью (не осталось номеров).
+2024-12-15 21:11:29 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Даниил Олегович' удалён полностью (не осталось номеров).
+2024-12-15 21:12:00 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)365-45-32 (Мобильный)
+2024-12-15 21:12:03 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Андрианов И. И. с 1 номерами
+2024-12-15 21:12:03 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Андрианов И. И.' добавлен (1 номеров).
+2024-12-15 21:12:27 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(921)456-89-90 (Мобильный)
+2024-12-15 21:12:27 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Белин О. Э. с 1 номерами
+2024-12-15 21:12:27 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Белин О. Э.' добавлен (1 номеров).
+2024-12-15 21:13:04 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(999)356-45-56 (Мобильный)
+2024-12-15 21:13:05 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Фуршт Г. Г. с 1 номерами
+2024-12-15 21:13:05 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Фуршт Г. Г.' добавлен (1 номеров).
+2024-12-15 21:13:31 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(999)234-45-78 (Мобильный)
+2024-12-15 21:13:32 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Молик А. С. с 1 номерами
+2024-12-15 21:13:32 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Молик А. С.' добавлен (1 номеров).
+2024-12-15 21:13:34 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Список отсортирован по ФИО.
+2024-12-15 21:14:17 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Данные сохранены в файл C:\Users\dsold\Downloads\тест.dat
+2024-12-15 21:14:39 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(916)312-00-23 (Домашний)
+2024-12-15 21:14:40 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Мьёлнир И. И. с 1 номерами
+2024-12-15 21:14:40 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Мьёлнир И. И.' добавлен (1 номеров).
+2024-12-15 21:14:46 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Данные загружены из файла C:\Users\dsold\Downloads\тест.dat
+2024-12-15 21:15:10 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 21:15:10 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 21:15:11 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 21:15:43 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Данные загружены из файла C:\Users\dsold\Downloads\тест.dat
+2024-12-15 21:17:16 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 21:17:16 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 21:17:17 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 21:17:25 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Данные загружены из файла C:\Users\dsold\Downloads\тест.dat
+2024-12-15 21:21:48 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-15 21:21:49 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-15 21:21:49 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-15 21:22:02 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: 89256 (Факс)
+2024-12-15 21:22:03 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: САП с 1 номерами
+2024-12-15 21:22:03 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'САП' добавлен (1 номеров).
+2024-12-16 04:20:21 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-16 04:20:21 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-16 04:20:22 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-16 05:55:48 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-16 05:55:48 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-16 05:55:49 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-16 05:56:25 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(111)222-33-44 (Мобильный)
+2024-12-16 05:56:43 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(222)111-44-33 (Рабочий)
+2024-12-16 05:57:25 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(812)303-00-30 (Факс)
+2024-12-16 06:06:56 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Алимов А. В с 3 номерами
+2024-12-16 06:06:56 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Алимов А. В' добавлен (3 номеров).
+2024-12-16 06:07:34 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(999)888-66-77 (Мобильный)
+2024-12-16 06:07:35 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Фурштад В. Г. с 1 номерами
+2024-12-16 06:07:35 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Фурштад В. Г.' добавлен (1 номеров).
+2024-12-16 06:08:13 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Добавлен номер: +7(666)777-88-99 (Домашний)
+2024-12-16 06:08:14 [JavaFX Application Thread] INFO  com.example.phonebook.AddEntryDialogController - Создан новый контакт: Григорян Г. А. с 1 номерами
+2024-12-16 06:08:14 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Григорян Г. А.' добавлен (1 номеров).
+2024-12-16 06:20:16 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Список отсортирован по ФИО.
+2024-12-16 08:32:05 [JavaFX Application Thread] INFO  com.example.phonebook.LoggingConfig - Логирование инициализировано.
+2024-12-16 08:32:06 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Главное окно инициализировано.
+2024-12-16 08:32:06 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookApplication - Приложение запущено.
+2024-12-16 08:32:22 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Данные загружены из файла C:\Users\dsold\Downloads\тест.dat
+2024-12-16 08:32:25 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Андрианов И. И.' удалён полностью (не осталось номеров).
+2024-12-16 08:32:30 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Молик А. С.' удалён полностью (не осталось номеров).
+2024-12-16 08:32:32 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Белин О. Э.' удалён полностью (не осталось номеров).
+2024-12-16 08:32:34 [JavaFX Application Thread] INFO  com.example.phonebook.PhoneBookController - Контакт 'Фуршт Г. Г.' удалён полностью (не осталось номеров).

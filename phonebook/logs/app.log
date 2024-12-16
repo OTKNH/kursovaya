@@ -1,0 +1,6 @@
+2024-12-14 02:28:59 [JavaFX Application Thread] INFO : Добавлена запись: ФИО=Даниил Солдаткин Телефон=+7 921 657-90-09 Тип=Факс
+2024-12-14 02:29:27 [JavaFX Application Thread] ERROR: Ошибка при добавлении записи: Неверный формат данных. Должно быть 3 поля, разделённые запятыми.
+2024-12-14 02:29:46 [JavaFX Application Thread] INFO : Данные успешно сохранены в файл phonebook.dat.
+2024-12-14 03:25:27 [JavaFX Application Thread] INFO : Список успешно отсортирован по ФИО.
+2024-12-14 03:28:45 [JavaFX Application Thread] INFO : Удалена запись: com.example.phonebook.Contact@33210641
+2024-12-14 04:02:52 [JavaFX Application Thread] INFO : Добавлена запись: ФИО=Андрей Васильев Телефон=+79219999999 Тип=Сотовый
